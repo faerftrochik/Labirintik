@@ -1,0 +1,7 @@
+F:\С#\Лаберинт\Laberint\Laberint\obj\Debug\Laberint.csproj.AssemblyReference.cache
+F:\С#\Лаберинт\Laberint\Laberint\obj\Debug\Laberint.csproj.CoreCompileInputs.cache
+F:\С#\Лаберинт\Laberint\Laberint\bin\Debug\Laberint.exe.config
+F:\С#\Лаберинт\Laberint\Laberint\bin\Debug\Laberint.exe
+F:\С#\Лаберинт\Laberint\Laberint\bin\Debug\Laberint.pdb
+F:\С#\Лаберинт\Laberint\Laberint\obj\Debug\Laberint.exe
+F:\С#\Лаберинт\Laberint\Laberint\obj\Debug\Laberint.pdb
