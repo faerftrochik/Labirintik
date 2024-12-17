@@ -1,0 +1,7 @@
+F:\С#\Снежная заставка\Sneg\Sneg\obj\Debug\Sneg.csproj.AssemblyReference.cache
+F:\С#\Снежная заставка\Sneg\Sneg\obj\Debug\Sneg.csproj.CoreCompileInputs.cache
+F:\С#\Снежная заставка\Sneg\Sneg\bin\Debug\Sneg.exe.config
+F:\С#\Снежная заставка\Sneg\Sneg\bin\Debug\Sneg.exe
+F:\С#\Снежная заставка\Sneg\Sneg\bin\Debug\Sneg.pdb
+F:\С#\Снежная заставка\Sneg\Sneg\obj\Debug\Sneg.exe
+F:\С#\Снежная заставка\Sneg\Sneg\obj\Debug\Sneg.pdb
